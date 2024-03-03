@@ -4,7 +4,7 @@ document.getElementById("aiButton").addEventListener("click", function() {
         <p>
         <b>Kas tās ir?:</b>
 
-        Azartspēles ir ir spēles, kurās dalībnieki veic likmes uz rezultātu, kurš ir atkarīgs no nejaušības vai gadījuma. Šīs spēles var ietvert dažādas aktivitātes, piemēram, kazino spēles (piemēram, rulete, blekdžeks, spēļu automāti), kā arī derību veikšanu uz sporta rezultātiem, zirgu sacensībām vai citiem notikumiem. Azartspēles bieži ir saistītas ar risku un var piedāvāt iespēju uzvarēt naudu vai citus priekšmetus.
+        Azartspēles ir spēles, kurās dalībnieki veic likmes uz rezultātu, kurš ir atkarīgs no nejaušības vai gadījuma. Šīs spēles var ietvert dažādas aktivitātes, piemēram, kazino spēles (piemēram, rulete, blekdžeks, spēļu automāti), kā arī derību veikšanu uz sporta rezultātiem, zirgu sacensībām vai citiem notikumiem. Azartspēles bieži ir saistītas ar risku un var piedāvāt iespēju uzvarēt naudu vai citus priekšmetus.
         
         <br><br><b>Azartspēles ,</b> sākās 3000 gadā BCE, Paleolīta periodā. Tajos laikos bija daudz dažādu azartspēļu veidi ,piemēram, senie ķīnieši spēlēja spēles ar kauliem un kartēm, grieķi veica likmes uz sporta sacensībām, un romieši spēlēja dažādas likmju spēles. Tāpat ir arī pierādījumi, ka azartspēles bija populāras senajās Mesopotāmijas un egiptiešu civilizācijās.
         </p>
